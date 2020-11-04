@@ -1,5 +1,7 @@
 #Mathematics for machine learning 
 
+![Cover](https://github.com/mhmdreda99/Math_for_Machine_Learning_Coursera/blob/master/Documents/cover.PNG)
+
 This repository contains all the quizzes/assignments for the specialization "Mathematics for Machine learning" by Imperial College of London on Coursera.
 
 ## Overview
